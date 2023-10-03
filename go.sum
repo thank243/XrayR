@@ -625,8 +625,8 @@ github.com/sacloud/iaas-api-go v1.3.2 h1:03obrdVdv/bGHK9p6CV7Uzg+ot2gLsddUMevm9D
 github.com/sacloud/iaas-api-go v1.3.2/go.mod h1:CoqpRYBG2NRB5xfqTfZNyh2lVLKyLkE/HV9ISqmbhGc=
 github.com/sacloud/packages-go v0.0.5 h1:NXTQNyyp/3ugM4CANtLBJLejFESzfWu4GPUURN4NJrA=
 github.com/sacloud/packages-go v0.0.5/go.mod h1:XWMBSNHT9YKY3lCh6yJsx1o1RRQQGpuhNqJA6bSHdD4=
-github.com/sagernet/sing v0.0.0-20220801112236-1bb95f9661fc h1:x7H64IiqyrpxPWl/KrWkknzEK4GmpqgfZeVKFVw6E/M=
-github.com/sagernet/sing v0.0.0-20220801112236-1bb95f9661fc/go.mod h1:GbtQfZSpmtD3cXeD1qX2LCMwY8dH+bnnInDTqd92IsM=
+github.com/sagernet/sing v0.2.12 h1:wwdLm3c4qvU4hW8tNtadh60V5z2FGlDZSYYGRzHhD74=
+github.com/sagernet/sing v0.2.12/go.mod h1:GQ673iPfUnkbK/dIPkfd1Xh1MjOGo36gkl/mkiHY7Jg=
 github.com/sagernet/sing-shadowsocks v0.0.0-20220801112336-a91eacdd01e1 h1:RYvOc69eSNMN0dwVugrDts41Nn7Ar/C/n/fvytvFcp4=
 github.com/sagernet/sing-shadowsocks v0.0.0-20220801112336-a91eacdd01e1/go.mod h1:NqZjiXszgVCMQ4gVDa2V+drhS8NMfGqUqDF86EacEFc=
 github.com/scaleway/scaleway-sdk-go v1.0.0-beta.9 h1:0roa6gXKgyta64uqh52AQG3wzZXH21unn+ltzQSXML0=
@@ -997,8 +997,8 @@ golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8/go.mod h1:oPkhp1MJrh7nUepCBc
 golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20220908164124-27713097b956/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
-golang.org/x/sys v0.2.0 h1:ljd4t30dBnAvMZaQCevtY0xLLD0A+bRZXbgLMLU1F/A=
-golang.org/x/sys v0.2.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/sys v0.12.0 h1:CM0HF96J0hcLAwsHPJZjfdNzs0gftsLfgKt57wWHJ0o=
+golang.org/x/sys v0.12.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/term v0.0.0-20201117132131-f5c789dd3221/go.mod h1:Nr5EML6q2oocZ2LXRh80K7BxOlk5/8JxuGnuhpl+muw=
 golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1/go.mod h1:bj7SfCRtBDWHUb9snDiAeCFNEtKQo2Wmx5Cou7ajbmo=
 golang.org/x/term v0.0.0-20210927222741-03fcf44c2211/go.mod h1:jbD1KX2456YbFQfuXm/mYQcufACuNUgVhRMnK/tPxf8=
